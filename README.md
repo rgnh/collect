@@ -29,6 +29,7 @@ https://github.com/shadowsocksrr/shadowsocksr-android
 https://github.com/SagerNet/SagerNet
 https://github.com/shadowsocks/shadowsocks-android
 https://github.com/zzzgydi/clash-verge 基于 tauri 的 Clash GUI。 支持 Windows、macOS 和 Linux。
+v2rayN官方https://github.com/2dust/v2rayN/
 AList 安卓版本，APK安装即用，无需Root或Termux https://github.com/jing332/AlistAndroid
 支持多个存储的文件列表/WebDAV 程序，由 Gin 和 Solidjs 提供支持。 / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 https://github.com/alist-org/alist
 利用反代cloudflare的CDN搭建免费节点
