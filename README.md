@@ -23,13 +23,17 @@ linux系统NTFS文件系统支持：https://github.com/tuxera/ntfs-3g/releases
 openwrt版AdGuard https://github.com/kongfl888/luci-app-adguardhome 
 yotube第三方客户端，免google框架，https://github.com/yuliskov/SmartTube/releases
 adguardhome官方 https://github.com/adguardteam/adguardhome
-opewrt版adguardhome https://github.com/kongfl888/luci-app-adguardhome
-翻墙工具：
-https://github.com/shadowsocksrr/shadowsocksr-android
-https://github.com/SagerNet/SagerNet
+opewrt版adguardhome https://github.com/kongfl888/luci-app-adguardhome <br>
+翻墙工具：<br>
+Clash Meta for Android：https://github.com/MetaCubeX/ClashMetaForAndroid/
+Clash iOS https://apps.apple.com/app/stash/id1596063349
+Clash for Windows：https://github.com/clash-verge-rev/clash-verge-rev/ https://github.com/xishang0128/sparkle/releases
+更多clash参考：https://clashios.com/ <br>
+https://github.com/shadowsocksrr/shadowsocksr-android <br>
+https://github.com/SagerNet/SagerNet <br>
 https://github.com/shadowsocks/shadowsocks-android
 https://github.com/zzzgydi/clash-verge 基于 tauri 的 Clash GUI。 支持 Windows、macOS 和 Linux。
-v2rayN官方https://github.com/2dust/v2rayN/
+v2rayN官方https://github.com/2dust/v2rayN/ <br>
 AList 安卓版本，APK安装即用，无需Root或Termux https://github.com/jing332/AlistAndroid
 支持多个存储的文件列表/WebDAV 程序，由 Gin 和 Solidjs 提供支持。 / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 https://github.com/alist-org/alist
 利用反代cloudflare的CDN搭建免费节点
