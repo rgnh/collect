@@ -49,3 +49,4 @@
 <br>https://github.com/Onezyh/Worker-Vless-2-USB/blob/main/EDtunnel-main.zip
 <br>3.使用pages自建批量节点并绑定自己的域名https://www.youtube.com/watch?v=S60gxrniUug
 <br>https://github.com/Onezyh/Pages-Vless-USB/blob/mian/worker.zip
+<br>命令行视频下载工具https://github.com/yt-dlp/yt-dlp/
